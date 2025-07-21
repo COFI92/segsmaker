@@ -330,7 +330,7 @@ def webui_selection(ui):
         repo_url = {
             'A1111': 'https://github.com/AUTOMATIC1111/stable-diffusion-webui A1111',
             'Forge': 'https://github.com/lllyasviel/stable-diffusion-webui-forge Forge',
-            'ReForge': 'https://github.com/Panchovix/stable-diffusion-webui-reForge ReForge',
+            'ReForge': 'https://github.com/COFI92/ReForge ReForge',
             'Forge-Classic': 'https://github.com/Haoming02/sd-webui-forge-classic Forge-Classic',
             'ComfyUI': 'https://github.com/comfyanonymous/ComfyUI',
             'SwarmUI': 'https://github.com/mcmonkeyprojects/SwarmUI'
